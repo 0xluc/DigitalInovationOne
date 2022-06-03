@@ -26,7 +26,7 @@ And change it as follows:
 User yourUsername
 Group yourGroup
 ```
-To find out your user's group, use the command _group yourUsername
+- To find out your user's group, use the command _group yourUsername_
 3. Start xampp with *sudo /opt/lampp/manager-linux-x64.run*
 4. Start apache via the xampp gui
 5. Access 127.0.0.1 to test it
