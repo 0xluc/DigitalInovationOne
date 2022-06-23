@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flex</title>
+</head>
+<style>
+    .cont{
+        display: flex;
+        border: 1px solid black;
+        max-width: 400px;
+    }
+    .item{
+        background-color: brown;
+        color: white;
+        font-size: 24px;
+        text-align: center;
+        margin: 5px;
+    }
+    .flex-1{
+        flex: 1;
+        /*grow = 1 shrink = 1 basis = 0*/
+    }
+    .flex-2{
+        flex: 2;
+        /*grow = 2 shrink = 1 basis = 0*/
+    }
+    .flex-3{
+        flex: 3;
+        /*grow = 3 shrink = 1 basis = 0*/
+    }
+    .larg{
+        width: 200px;
+    }
+</style>
+<body>
+    <h2>flex1</h2>
+    <div class="cont">
+        <div class="item flex-1">A</div>
+        <div class="item flex-1">BBBBBB</div>
+        <div class="item flex-1">C</div>
+        <div class="item flex-1">D</div>
+        <div class="item flex-1">E</div>
+    </div>
+    <h2>flex mix</h2>
+    <div class="cont">
+        <div class="item flex-1">A</div>
+        <div class="item flex-2">BBBBBB</div>
+        <div class="item flex-2">C</div>
+        <div class="item flex-1">D</div>
+        <div class="item flex-1">E</div>
+    </div>
+</body>
+</html>

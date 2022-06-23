@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Align Content</title>
+    <style>
+        .container{
+            height: 400px;
+            max-width: 300px;
+            display: flex;
+            flex-wrap: wrap;
+            border: 1px solid black;
+        }
+        .item{
+            background-color: orangered;
+            padding: 0 5px;
+            flex: 1;
+            margin: 5px;
+            text-align: center;
+            color: white;
+        }
+        .stretch{
+            align-content: stretch;
+        }
+        .center{
+            align-content: center;
+        }
+        .start{
+            align-content: flex-start;
+        }
+        .spacearound{
+            align-content: space-around;
+        }
+        .spacebet{
+            align-content: space-between;
+        }
+    </style>
+</head>
+<body>
+    <h2>stretch</h2>
+    <div class="container stretch">
+        <div class="item">lorem</div>
+        <div class="item">lorem ipsun asaiaos</div>
+        <div class="item">lorem asjdkjsdkajsdhkajsh hasjdhausd iausdy</div>
+        <div class="item">aosidad oasidu asoidu asdiu oi</div>
+        <div class="item"> oaidy aiusbb aiusbd aueg</div>
+        <div class="item">uasq s8qksjdh qkasus8q</div>
+        <div class="item"> 8asywyqua susgfy</div> 
+    </div>
+    <h2>center</h2>
+    <div class="container center">
+        <div class="item">lorem</div>
+        <div class="item">lorem ipsun asaiaos</div>
+        <div class="item">lorem asjdkjsdkajsdhkajsh hasjdhausd iausdy</div>
+        <div class="item">aosidad oasidu asoidu asdiu oi</div>
+        <div class="item"> oaidy aiusbb aiusbd aueg</div>
+        <div class="item">uasq s8qksjdh qkasus8q</div>
+        <div class="item"> 8asywyqua susgfy</div> 
+    </div>
+    <h2>flex start</h2>
+    <div class="container start">
+        <div class="item">lorem</div>
+        <div class="item">lorem ipsun asaiaos</div>
+        <div class="item">lorem asjdkjsdkajsdhkajsh hasjdhausd iausdy</div>
+        <div class="item">aosidad oasidu asoidu asdiu oi</div>
+        <div class="item"> oaidy aiusbb aiusbd aueg</div>
+        <div class="item">uasq s8qksjdh qkasus8q</div>
+        <div class="item"> 8asywyqua susgfy</div> 
+    </div>
+    <h2>space around</h2>
+    <div class="container spacearound">
+        <div class="item">lorem</div>
+        <div class="item">lorem ipsun asaiaos</div>
+        <div class="item">lorem asjdkjsdkajsdhkajsh hasjdhausd iausdy</div>
+        <div class="item">aosidad oasidu asoidu asdiu oi</div>
+        <div class="item"> oaidy aiusbb aiusbd aueg</div>
+        <div class="item">uasq s8qksjdh qkasus8q</div>
+        <div class="item"> 8asywyqua susgfy</div> 
+    </div>
+    <h2>space between</h2>
+    <div class="container spacebet">
+        <div class="item">lorem</div>
+        <div class="item">lorem ipsun asaiaos</div>
+        <div class="item">lorem asjdkjsdkajsdhkajsh hasjdhausd iausdy</div>
+        <div class="item">aosidad oasidu asoidu asdiu oi</div>
+        <div class="item"> oaidy aiusbb aiusbd aueg</div>
+        <div class="item">uasq s8qksjdh qkasus8q</div>
+        <div class="item"> 8asywyqua susgfy</div> 
+    </div>
+</body>
+</html>

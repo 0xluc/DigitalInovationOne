@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>align self</title>
+    <style>
+        .cont{
+            display: flex;
+            border: 2px solid black;
+            max-width: 400px;
+            margin-bottom: 20px;
+        }
+        .align-container{
+            align-items: center;
+        }
+        .item{
+            background-color: brown;
+            color: white;
+            font-size: 24px;
+            text-align: center;
+            margin: 5px;
+        }
+        .center{   
+            align-self: center;
+        }
+        .start{
+            align-self: flex-start;
+        }
+        .end{
+            align-self: flex-end;
+        }
+        .bl{
+            align-self: baseline;
+        }
+        .st{
+            align-self: stretch;
+        }
+        .auto{
+            align-self: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="cont align-container">
+        <div class="item auto">1</div>
+        <div class="item auto">aaaaa</div>
+        <div class="item auto">ajskdadjh aksjdkajsdh aksjdakhdhjahkd</div>
+        <div class="item auto">4</div>
+    </div>
+    <div class="cont ">
+        <div class="item bl">1</div>
+        <div class="item st">aaaaa</div>
+        <div class="item start">ajskdadjh aksjdkajsdh aksjdakhdhjahkd</div>
+        <div class="item end">4</div>
+    </div>
+</body>
+</html>
