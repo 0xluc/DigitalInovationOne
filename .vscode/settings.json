@@ -1,0 +1,8 @@
+{
+    "npm.exclude": "",
+    "npm.packageManager": "npm",
+    "npm.scriptExplorerAction": "open",
+    "debug.javascript.terminalOptions": {
+    
+    }
+}
