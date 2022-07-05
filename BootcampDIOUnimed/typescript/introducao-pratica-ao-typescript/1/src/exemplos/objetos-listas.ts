@@ -1,3 +1,4 @@
+// @ts-nocheck
 // objeto criado por inferencia
 const Pessoa = {
     nome: 'Maria',
@@ -31,21 +32,21 @@ interface Pessoa{
     profissao?: Profissao, // pode ou não ser usado por causa do ?
     idade: number
 }
-interface Estudante extends Pessoa {
+interface Estudante extends PessoaType {
     materias: string[] // Lista de strings
 }
 
-const Vanessa: Pessoa = {
+const Vanessa: PessoaType = {
     nome: 'Vannesa',
     idade: 23,
-    profissao: Profissao.Desenvolvedora
+    prof: Profissao.Desenvolvedora
 }
 
 const Jessica: Estudante = {
     nome: 'Jessica',
     idade: 28,
     materias: ['Matematica','Programação'],
-    profissao: Profissao.Professora
+    prof: Profissao.Professora
 }
 
 function listar(lista:string[]) {

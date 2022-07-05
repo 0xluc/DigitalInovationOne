@@ -12,7 +12,7 @@ unknownValor = false
 unknownValor = 'teste'
 
 let stringtest2:string = 'Teste'
-stringtest2 = unknownValor // para fazer essa atribuição é necessário uma validação
+//stringtest2 = unknownValor // para fazer essa atribuição é necessário uma validação
 
 if(typeof unknownValor === 'string'){
     stringtest2 = unknownValor
