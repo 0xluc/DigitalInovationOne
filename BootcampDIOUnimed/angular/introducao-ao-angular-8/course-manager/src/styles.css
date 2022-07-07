@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~font-awesome/css/font-awesome.min.css'
+
+/*Tudo o que for definido aqui será propagado de forma global para todos
+os componentes, graças ao angular.json*/
