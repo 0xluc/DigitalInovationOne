@@ -1,0 +1,41 @@
+<h1 class="text-sucess text-center">Live angular diretivas</h1>
+
+<!--muda o background usando um if ternário-->
+<div 
+    [ngStyle]="{ background: count <= 5 ? 'red':'green' }"   
+    [ngClass]="{custom: count > 5}" > <!--Só aplica a classe custom se count for maior que 5-->
+  <h2 class="text-center">Contador: {{ count }}</h2>
+</div>
+
+<h2 *ngIf="count > 7; else menor"> O contador passou de 7</h2> <!--Só é exibido se a condição for verdadeira, se for falsa, joga para menor-->
+
+<ng-template #menor> <!--Esta tag de template não é renderizada, serve apenas para lógica-->
+  <h2>O contador não passou de 7</h2>
+</ng-template>
+
+<ul [ngSwitch]="count" class="list-group mx-auto col-2">
+  <li class="list-group-item" *ngSwitchCase="1">1</li>
+  <li class="list-group-item" *ngSwitchCase="2">2</li>
+  <li class="list-group-item" *ngSwitchCase="3">3</li>
+  <li class="list-group-item" *ngSwitchCase="4">4</li>
+  <li class="list-group-item" *ngSwitchCase="5">5</li>
+  <li class="list-group-item" *ngSwitchCase="6">6</li>
+  <li class="list-group-item" *ngSwitchCase="7">7</li>
+  <li class="list-group-item" *ngSwitchCase="8">8</li>
+  <li class="list-group-item" *ngSwitchCase="9">9</li>
+  <li class="list-group-item" *ngSwitchDefault>Valor não existente</li>
+</ul>
+
+<ul class="list-group mx-auto col-2">
+  <li class="list-group-item" *ngFor="let pessoa of pessoas">O nome é {{ pessoa.nome }} {{ pessoa.sobrenome }}
+  </li>    
+</ul>
+
+<button class="btn btn-sucess" (click)="clicou()">Clique</button> <!--Enviando dados para o componente ao inves de só receber-los-->
+
+<div class="col-4 mx-auto">
+  <input type="text" class="form-control" placeholder="Digita algo" [(ngModel)]="text">  
+  <h4>Saída: {{ text }}</h4>
+</div>
+
+<h3 appMarcaTexto corDeFundo="cyan" corDoTexto="black" >Diretiva</h3>
