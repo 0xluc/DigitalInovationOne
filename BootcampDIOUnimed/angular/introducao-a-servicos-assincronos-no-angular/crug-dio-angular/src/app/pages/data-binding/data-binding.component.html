@@ -1,0 +1,19 @@
+<h1>O nome é {{ retornaNome() }}</h1> <!-- interpolação -->
+
+<img [src]="imgUrl" alt=""> <!-- property biding -->
+
+<h2 (click)="clicou()">Não clique aqui</h2> <!-- event binding -->
+
+<h1 [class.textred]='textRed'>Class binding</h1> <!--quando a variável for true, a classe do css é aplicada-->
+
+<h1 [style.backgroundColor]="bgColor">Style binding</h1>
+
+<input type="text" class="form-control" [(ngModel)]="textInput">
+<h1 class="text-default"> {{ textInput }}</h1>
+
+<app-button [btnText]="'Enviar'" [btnType]="'btn-success'"></app-button>
+<app-button [btnText]="'Salvar'" (clickChildren)="clicounofilho($event)"></app-button>
+<app-button [btnText]="'Incrementa'" (click)="incrementa()"></app-button>
+<app-button [btnText]="'Destroi'" (click)="destroicomponente()"></app-button>
+
+<app-life-cycle [number]="number" *ngIf="!destroy"></app-life-cycle>
