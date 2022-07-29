@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "build",
+                "${workspaceFolder}/BootcampDIOUnimed/angular/como-criar-um-front-end-de-um-e-commerce-utilizando-angular/DIO-LiveCoding-Api-GETProducts/APIBookstore/APIBookstore.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "publish",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "publish",
+                "${workspaceFolder}/BootcampDIOUnimed/angular/como-criar-um-front-end-de-um-e-commerce-utilizando-angular/DIO-LiveCoding-Api-GETProducts/APIBookstore/APIBookstore.csproj",
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "watch",
+            "command": "dotnet",
+            "type": "process",
+            "args": [
+                "watch",
+                "run",
+                "--project",
+                "${workspaceFolder}/BootcampDIOUnimed/angular/como-criar-um-front-end-de-um-e-commerce-utilizando-angular/DIO-LiveCoding-Api-GETProducts/APIBookstore/APIBookstore.csproj"
+            ],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.deps.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.runtimeconfig.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/bin/Debug/net6.0/ref/DigitalInovationOne.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/bin/Debug/net6.0/DigitalInovationOne.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.csproj.AssemblyReference.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.AssemblyInfoInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.AssemblyInfo.cs
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.csproj.CoreCompileInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/ref/DigitalInovationOne.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/DigitalInovationOne/obj/Debug/net6.0/DigitalInovationOne.genruntimeconfig.cache
