@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/SQZb5NRBJXVqIRe+gnzhxyVHwpEVWFMNPI9BcM1z84OHjGZ0+3MW/S2o5Ox93Hd8FD5DXdqxY/HdnfFbvHhZg==",
+  "success": true,
+  "projectFilePath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/Revisao.csproj",
+  "expectedPackageFiles": [
+    "/home/silverscalp/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

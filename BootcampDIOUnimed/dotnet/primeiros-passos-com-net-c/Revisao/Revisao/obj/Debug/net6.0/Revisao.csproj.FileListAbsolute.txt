@@ -1,0 +1,15 @@
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.csproj.AssemblyReference.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.GeneratedMSBuildEditorConfig.editorconfig
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfoInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.AssemblyInfo.cs
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.csproj.CoreCompileInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/bin/Debug/net6.0/Revisao
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/bin/Debug/net6.0/Revisao.deps.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/bin/Debug/net6.0/Revisao.runtimeconfig.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/bin/Debug/net6.0/Revisao.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/bin/Debug/net6.0/ref/Revisao.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/bin/Debug/net6.0/Revisao.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/ref/Revisao.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/primeiros-passos-com-net-c/Revisao/Revisao/obj/Debug/net6.0/Revisao.genruntimeconfig.cache
