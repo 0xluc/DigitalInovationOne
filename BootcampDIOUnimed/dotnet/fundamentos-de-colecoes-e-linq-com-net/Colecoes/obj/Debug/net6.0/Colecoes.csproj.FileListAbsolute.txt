@@ -1,0 +1,15 @@
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/bin/Debug/net6.0/Colecoes
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/bin/Debug/net6.0/Colecoes.deps.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/bin/Debug/net6.0/Colecoes.runtimeconfig.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/bin/Debug/net6.0/Colecoes.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/bin/Debug/net6.0/ref/Colecoes.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/bin/Debug/net6.0/Colecoes.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.csproj.AssemblyReference.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfoInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.AssemblyInfo.cs
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.csproj.CoreCompileInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/ref/Colecoes.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/obj/Debug/net6.0/Colecoes.genruntimeconfig.cache

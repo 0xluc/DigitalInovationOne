@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "igmez5V2AJ6zJGtiEQP/piohUGT3FLy5Yqli+eaXy8VFPAi8Ngp2accqFdvFTJme9/1CLI4VPe5NuHBk7m2ODA==",
+  "success": true,
+  "projectFilePath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/fundamentos-de-colecoes-e-linq-com-net/Colecoes/Colecoes.csproj",
+  "expectedPackageFiles": [
+    "/home/silverscalp/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
