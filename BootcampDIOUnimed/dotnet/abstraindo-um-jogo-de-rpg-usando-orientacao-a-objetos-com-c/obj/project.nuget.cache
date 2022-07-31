@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E68/361J2LiVjxjPo/toj1r9AbO2DXb+YcgTCp/gXgNdhWjNmo4eMhBXT9InJtEW/pRSb/4l/C9a/16BpmzIxg==",
+  "success": true,
+  "projectFilePath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c/abstraindo-um-jogo-de-rpg-usando-orientacao-a-objetos-com-c.csproj",
+  "expectedPackageFiles": [
+    "/home/silverscalp/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

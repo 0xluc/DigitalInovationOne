@@ -1,0 +1,15 @@
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.csproj.AssemblyReference.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.GeneratedMSBuildEditorConfig.editorconfig
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.AssemblyInfoInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.AssemblyInfo.cs
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.csproj.CoreCompileInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/bin/Debug/net6.0/File_And_FileInfo
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/bin/Debug/net6.0/File_And_FileInfo.deps.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/bin/Debug/net6.0/File_And_FileInfo.runtimeconfig.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/bin/Debug/net6.0/File_And_FileInfo.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/bin/Debug/net6.0/ref/File_And_FileInfo.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/bin/Debug/net6.0/File_And_FileInfo.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/ref/File_And_FileInfo.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/obj/Debug/net6.0/File_And_FileInfo.genruntimeconfig.cache

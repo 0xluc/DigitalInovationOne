@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5FUBA+tUE84dmTcqMYJ5TawV8d1Cu/+G2qohUwi5vpUImOKnTH+gd9v62G0QmUTApa7R1NVupW8cBxtFIyv4uw==",
+  "success": true,
+  "projectFilePath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/trabalhando-com-arquivos-e-streams-em-c/File_And_FileInfo/File_And_FileInfo.csproj",
+  "expectedPackageFiles": [
+    "/home/silverscalp/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
