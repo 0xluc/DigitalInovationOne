@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6MaLvpYUV35kCjbXuxU5aTI/ZLa+iDczRj7QIOvT6bkGuHGafu07sKrMSbzwJkJenZnZ6Q8tbRF2NX/9jye44w==",
+  "success": true,
+  "projectFilePath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/Series.csproj",
+  "expectedPackageFiles": [
+    "/home/silverscalp/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.6/microsoft.aspnetcore.app.ref.6.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}

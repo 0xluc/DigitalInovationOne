@@ -1,0 +1,15 @@
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/bin/Debug/net6.0/DIO.Series
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/bin/Debug/net6.0/DIO.Series.deps.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/bin/Debug/net6.0/DIO.Series.runtimeconfig.json
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/bin/Debug/net6.0/DIO.Series.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/bin/Debug/net6.0/ref/DIO.Series.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/bin/Debug/net6.0/DIO.Series.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.csproj.AssemblyReference.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.AssemblyInfoInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.AssemblyInfo.cs
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.csproj.CoreCompileInputs.cache
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/ref/DIO.Series.dll
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.pdb
+/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/Debug/net6.0/DIO.Series.genruntimeconfig.cache

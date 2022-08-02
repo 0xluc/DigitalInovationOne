@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/DIO.Series.csproj",
-      "projectName": "DIO.Series",
-      "projectPath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/DIO.Series.csproj",
+      "projectUniqueName": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/Series.csproj",
+      "projectName": "Series",
+      "projectPath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/Series.csproj",
       "packagesPath": "/home/silverscalp/.nuget/packages/",
       "outputPath": "/home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/obj/",
       "projectStyle": "PackageReference",

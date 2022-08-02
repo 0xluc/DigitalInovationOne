@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = DIO.Series
+build_property.ProjectDir = /home/silverscalp/projetos/DigitalInovationOne/BootcampDIOUnimed/dotnet/criando-um-app-de-cadastro-em-memoria-implementando-crud-de-series-em-net/Series/
